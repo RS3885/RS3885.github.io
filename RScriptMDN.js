@@ -11,8 +11,8 @@ const HelloVueApp = {
     data() {
       return {
         message: 'How is the job hunting going? There will be more coming to this page so be sure to revisit occassionaly.\
-        Very basic looking but there is a lot more going on under the hood.'
-      }
+        \n Very basic looking but there is a lot more going on under the hood.'
+      } 
     }
   }
   
