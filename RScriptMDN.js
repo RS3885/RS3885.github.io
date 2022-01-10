@@ -1,10 +1,10 @@
 function runMe(stR) {
-    alert('MDN rs is here again in a src file. Im learning fast!');
+    alert('Afternoon Mim!');
     console.log(stR);
     alert(stR);
 }
 
-runMe("fred MDN");
+runMe("Get that job");
 
 
 const HelloVueApp = {
