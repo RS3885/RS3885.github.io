@@ -10,7 +10,7 @@ runMe("fred MDN");
 const HelloVueApp = {
     data() {
       return {
-        message: 'Hello VueyxxxRwwwwwwwwwwwwwww!!'
+        message: 'Hello Mimii. How is the job hunting going?'
       }
     }
   }
