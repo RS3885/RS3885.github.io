@@ -10,7 +10,7 @@ runMe("Get that job");
 const HelloVueApp = {
     data() {
       return {
-        message: 'Hello Mimii. How is the job hunting going?'
+        message: 'Hello Mimii. How is the job hunting going? There will be more coming to this page so be sure to revisit occassionaly'
       }
     }
   }
