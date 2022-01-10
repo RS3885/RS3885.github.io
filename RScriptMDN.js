@@ -20,12 +20,13 @@ const HelloVueApp = {
   */
 
 
-function mimStr() {
-  let mStr = document.getElementById("mim");
-  mStr.innerText = 'How is the job hunting going? There will be more coming to this page so be sure to revisit occassionaly.\
+//var  mimStr;
+mimStr = () => 'How is the job hunting going? There will be more coming to this page so be sure to revisit occassionaly.\
   \nVery basic looking but there is a lot more going on under the hood.';
-}
 
-mimStr();
+
+document.getElementById("mim").innerText = mimStr();
+
+
 
 
